@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "The Original",
+      "category": "Burgers",
+      "price": 8,
+      "description": "A juicy burger of Swedish beef on toasted sesame bread with original dressing, hickory smoked pepper bacon, iceberg lettuce, sweet onion, tomato and cheddar cheese.",
+      "image": "/images/burger-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Frankensteins monster",
+      "category": "Burgers",
+      "price": 9,
+      "description": "Made with Kraft's A.1. Thick and Hearty Sauce, melted American cheese, tomatoes, lettuce, mayonnaise, pickles and sliced white onions.",
+      "image": "/images/burger-2.png"
+    },
+    {
+      "id": 3,
+      "name": "The Slap-Your-Face Sauce Explosion",
+      "category": "Burgers",
+      "price": 8,
+      "description": "A burger that packs a punch with its abundance of tangy, zesty, and creamy sauces that practically burst out of the bun. With each bite, your taste buds will be slapped with a saucy explosion of flavors that will leave you wanting more.",
+      "image": "/images/burger-3.png"
+    },
+    {
+      "id": 4,
+      "name": "The Smoky Sizzler Burger",
+      "category": "Burgers",
+      "price": 8,
+      "description": "a tantalizing double bacon burger that brings together the best of bold flavors and mouthwatering textures. With perfectly seasoned beef patties, crispy bacon strips, and a hint of smokiness, every bite delivers a sizzling explosion of savory goodness that will leave you craving for more.",
+      "image": "/images/burger-4.png"
+    },
+    {
+      "id": 5,
+      "name": "The Slippery Slope of Cheesiness",
+      "category": "Burgers",
+      "price": 7,
+      "description": "A gloriously greasy double cheeseburger that takes you on a mouthwatering adventure. With two juicy beef patties smothered in melted cheese, this burger creates a delectable cascade of gooey goodness that will have you sliding down a flavorful slope of cheesy bliss with every bite.",
+      "image": "/images/burger-5.png"
+    },
+    {
+      "id": 6,
+      "name": "The Chortling Chèvre Burger",
+      "category": "Burgers",
+      "price": 10,
+      "description": "A gourmet delight that combines the richness of a juicy beef patty with the tangy, creamy goodness of chèvre cheese. Topped with fresh arugula and a drizzle of balsamic glaze, this burger creates a harmonious blend of flavors that will have you chortling with joy after every scrumptious bite.",
+      "image": "/images/burger-6.png"
+    },
+    {
+      "id": 7,
+      "name": "The Sweet 'n Sour Onion Overload",
+      "category": "Burgers",
+      "price": 8,
+      "description": "A burger bursting with contrasting flavors and textures. Featuring pickled red onions and caramelized onions, this mouthwatering creation delivers a tantalizing combination of tangy and sweet notes, elevating the juicy beef patty to new heights of deliciousness.",
+      "image": "/images/burger-7.png"
+    },
+    {
+      "id": 8,
+      "name": "The Towering Triple Meat Mayhem",
+      "category": "Burgers",
+      "price": 11,
+      "description": "A carnivore's dream come true with not one, not two, but three juicy patties stacked high. Packed with a variety of toppings like crispy bacon, melted cheese, fresh lettuce, ripe tomatoes, and tangy pickles, this towering masterpiece promises an explosion of flavors and a satisfying meaty feast that will leave you in awe.",
+      "image": "/images/burger-9.png"
+    },
+    {
+      "id": 9,
+      "name": "MILKSHAKE",
+      "category": "Drinks",
+      "description":"Treat yourself to a heavenly delight with our Oreo milkshake. Indulge in the creamy goodness of vanilla ice cream blended with crushed Oreo cookies, creating a luscious and satisfying beverage that will satisfy your sweet cravings.",
+      "price": 5,
+      "image": "/images/milkshake-1.png"
+    },
+    {
+      "id": 10,
+      "name": "FRIDA: EARLY BIRD",
+      "category": "Drinks",
+      "description": "Kickstart your day with our FRIDA: Early Bird drink. This invigorating blend of freshly brewed coffee and zesty orange juice provides a vibrant and refreshing morning pick-me-up, perfectly balanced to awaken your senses and fuel your day.",
+      "price": 3,
+      "image": "/images/soda-1.png"
+    },
+    {
+      "id": 11,
+      "name": "OLIPOP",
+      "category": "Drinks",
+      "description": "Discover a new level of fizzy goodness with our OLIPOP drink. This sparkling beverage combines delicious flavors with prebiotics and botanicals, creating a refreshing and health-conscious choice that will delight your taste buds and support your well-being.",
+      "price": 3,
+      "image": "/images/soda-2.png"
+    },
+    {
+      "id": 12,
+      "name": "CALPIS WATER",
+      "category": "Drinks",
+      "description": "Quench your thirst with the refreshing taste of Calpis Water. This light and crisp beverage features a unique blend of fermented milk and citrus flavors, resulting in a satisfying and thirst-quenching drink that is perfect for any occasion.",
+      "price": 2,
+      "image": "/images/soda-3.png"
+    },
+    {
+      "id": 13,
+      "name": "POSITIVE ENERGY",
+      "category": "Drinks",
+      "description": "Elevate your spirits with our Positive Energy drink. Bursting with vibrant flavors and a blend of invigorating ingredients, this refreshing beverage is designed to uplift your mood and provide a boost of vitality, making it the perfect choice for a revitalizing and positive experience.",
+      "price": 3,
+      "image": "/images/soda-4.png"
+    },
+    {
+      "id": 14,
+      "name": "REGULAR FRIES",
+      "category": "Fries",
+      "description": "Deliciously crispy and golden, our fries are the perfect side dish to complement any meal. Prepared with care and served hot, they are a mouthwatering indulgence that will leave you craving for more.",
+      "price": 3,
+      "image": "/images/fries-1.png"
+    },
+    {
+      "id": 15,
+      "name": "SWEET POTATO FRIES",
+      "category": "Fries",
+      "description": "Indulge in the perfect balance of sweet and savory with our delightful sweet potato fries. These oven-baked golden delights offer a healthier twist to traditional fries while delivering a burst of flavor that will keep you coming back for more.",
+      "price": 4,
+      "image": "/images/fries-2.png"
+    }
+  ]
+}
