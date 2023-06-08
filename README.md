@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+BUN DROP 
+
+Sidan är en online affär för beställning av burgare och liknande.
+
+Det finns en home sida för välkommnade och displaya lite av sortimentet.
+
+På meny-sidan finns alla artiklar sorterade efter kategori.
+
+På cart sidan kan du se din varukorg. Där kan du ta bort från din varukorg och ändra antal av artiklarna. Till höger är en ructa för chekout där du fyller i dina uppgifter och ser totalpris.
+
+Appen startas genom komandet: npm start
+Json-servern startar man genom att sktiva: npm run json-server
